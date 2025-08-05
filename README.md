@@ -31,7 +31,7 @@ This project implements and compares multiple neural network architectures for *
 ├── accuracies_backups/     # Folder for logging accuracy values
 ```
 
-> ⚠️ You must provide a `loader.py` script that implements functions like `get_data_set()` and `get_toy_data()`.
+> You must provide a `loader.py` script that implements functions like `get_data_set()` and `get_toy_data()`.
 
 ## Usage
 
